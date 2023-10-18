@@ -12,7 +12,7 @@ A boilerplate for setting up user authentication in a Node.js Express web applic
 
 ## Libraries Used
 
-ExpressAuth Titan incorporates several powerful libraries to enhance your development experience:
+This project incorporates several powerful libraries to enhance your development experience:
 
 - **[Passport](http://www.passportjs.org/):** A versatile and widely adopted authentication library for Node.js that supports various authentication strategies.
 
